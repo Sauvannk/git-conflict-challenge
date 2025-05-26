@@ -1,3 +1,1 @@
-# Hello conflit
-# git-conflict-challenge
-# Ceci est la version GitHub
+# Hello conflit, comment provoquer un conflit
